@@ -5,7 +5,7 @@ This is a simple **To-Do App Backend** built using **Node.js, Express.js, MySQL,
 ## 🚀 Live API
 
 The backend is deployed on **Render** and can be accessed here:  
-👉 **[https://todo-backend.onrender.com](https://todo-backend.onrender.com)**
+👉 **[https://basic-crud-assignment.onrender.com](https://basic-crud-assignment.onrender.com)**
 
 ## 📌 Features
 
@@ -46,7 +46,7 @@ todo-app-backend/
 
 ## 🚀 API Endpoints
 
-### 🎯 Base URL: `https://todo-backend.onrender.com/api/todos`
+### 🎯 Base URL: `https://basic-crud-assignment.onrender.com/api/todos`
 
 | Method   | Endpoint | Description    |
 | -------- | -------- | -------------- |
@@ -58,7 +58,7 @@ todo-app-backend/
 ### 🔹 Example API Request (POST a Task)
 
 ```sh
-POST https://todo-backend.onrender.com/api/todos
+POST https://basic-crud-assignment.onrender.com/api/todos
 Content-Type: application/json
 
 {
